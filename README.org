@@ -1,0 +1,10 @@
+* weblocks-examples
+
+Example applications for Weblocks framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/weblocks-framework/weblocks-examples.git   |
+| commit  | ae313fd  |
+| systems | weblocks-examples |
+|---------+-------------------------------------------|
+
