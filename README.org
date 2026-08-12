@@ -7,4 +7,4 @@ Example applications for Weblocks framework
 | commit  | ae313fd                                                              |
 | systems | weblocks-elephant-demo weblocks-demo weblocks-clsql-demo simple-blog |
 |---------+----------------------------------------------------------------------|
- 
+  
